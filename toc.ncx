@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="15eb4a13-ae92-4a8d-a7eb-c289e178f5cc" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.17.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Without a Net</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="text.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Note from the author</text>
+      </navLabel>
+      <content src="text.html#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text.html#p8"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="text.html#p12"/>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Why I Am Writing This Book</text>
+        </navLabel>
+        <content src="text.html#p12"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Where I Came From</text>
+        </navLabel>
+        <content src="text.html#p13"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Where I Am</text>
+        </navLabel>
+        <content src="text.html#p14"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>What We Have</text>
+        </navLabel>
+        <content src="text.html#p16"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Where We’re Going</text>
+        </navLabel>
+        <content src="text.html#p17"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Caveats</text>
+        </navLabel>
+        <content src="text.html#p19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="text.html#p22"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="text.html#p24"/>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Why Our Work Is Important—Defining the Digital Divide</text>
+        </navLabel>
+        <content src="text.html#p24"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Computers, We Have Them</text>
+        </navLabel>
+        <content src="text.html#p26"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>People Are Offline for a Reason</text>
+        </navLabel>
+        <content src="text.html#p27"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Moral Imperatives and Technological Definitions</text>
+        </navLabel>
+        <content src="text.html#p29"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Who Is Offline, and Why?</text>
+        </navLabel>
+        <content src="text.html#p30"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>What Libraries Can Do</text>
+        </navLabel>
+        <content src="text.html#p39"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>About This Book</text>
+        </navLabel>
+        <content src="text.html#p40"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>1 People in the Library</text>
+      </navLabel>
+      <content src="text.html#p42"/>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Library Staff—You Are Here</text>
+        </navLabel>
+        <content src="text.html#p43"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Library Patrons—What They Need, What They Receive</text>
+        </navLabel>
+        <content src="text.html#p50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>2 The Bigger Picture—Who Makes the Tools We Use</text>
+      </navLabel>
+      <content src="text.html#p60"/>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>What Is a Default and Who Decides?</text>
+        </navLabel>
+        <content src="text.html#p61"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>The Media, the Decision Makers, and How They Interact</text>
+        </navLabel>
+        <content src="text.html#p79"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Synthesis—How It All Works Together</text>
+        </navLabel>
+        <content src="text.html#p89"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_27" playOrder="27">
+      <navLabel>
+        <text>3 Planning—Strategies, Techniques, and Tools</text>
+      </navLabel>
+      <content src="text.html#p92"/>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Library Policies</text>
+        </navLabel>
+        <content src="text.html#p94"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>Leading versus Following—Tech Assessments</text>
+        </navLabel>
+        <content src="text.html#p101"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>4 Planning for Pedagogy</text>
+      </navLabel>
+      <content src="text.html#p110"/>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Our Toolbox</text>
+        </navLabel>
+        <content src="text.html#p111"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>Setting Up the Classroom</text>
+        </navLabel>
+        <content src="text.html#p119"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>Instruction Happens</text>
+        </navLabel>
+        <content src="text.html#p122"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>The Technology Itself</text>
+        </navLabel>
+        <content src="text.html#p126"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>Are You Accessible?</text>
+        </navLabel>
+        <content src="text.html#p133"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_36" playOrder="36">
+      <navLabel>
+        <text>5 Basic Instruction and Explanations</text>
+      </navLabel>
+      <content src="text.html#p138"/>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>Tech Terms and Meanings</text>
+        </navLabel>
+        <content src="text.html#p139"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>What Is a Computer?</text>
+        </navLabel>
+        <content src="text.html#p143"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>What Is an Operating System?</text>
+        </navLabel>
+        <content src="text.html#p158"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>What Is the Desktop?</text>
+        </navLabel>
+        <content src="text.html#p161"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>What Is a Window?</text>
+        </navLabel>
+        <content src="text.html#p161"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>Basic Tasks</text>
+        </navLabel>
+        <content src="text.html#p164"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>6 What Is the Internet?</text>
+      </navLabel>
+      <content src="text.html#p176"/>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Internet Elevator Pitch</text>
+        </navLabel>
+        <content src="text.html#p178"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>Internet Access</text>
+        </navLabel>
+        <content src="text.html#p179"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>What Is Our Internet?</text>
+        </navLabel>
+        <content src="text.html#p180"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>A Few Common Myths about the Internet</text>
+        </navLabel>
+        <content src="text.html#p181"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>The Web</text>
+        </navLabel>
+        <content src="text.html#p183"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>Google, The</text>
+        </navLabel>
+        <content src="text.html#p194"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>7 Email Is Everything</text>
+      </navLabel>
+      <content src="text.html#p204"/>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>Break It Down—What Is Email Really?</text>
+        </navLabel>
+        <content src="text.html#p205"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>So, You Need Email?</text>
+        </navLabel>
+        <content src="text.html#p211"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>Email Parts</text>
+        </navLabel>
+        <content src="text.html#p216"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>Email Attachments</text>
+        </navLabel>
+        <content src="text.html#p217"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>Advanced Email—Tips to Improve the Experience</text>
+        </navLabel>
+        <content src="text.html#p219"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>Non-web-based Email</text>
+        </navLabel>
+        <content src="text.html#p220"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>Bad People and Email</text>
+        </navLabel>
+        <content src="text.html#p221"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_58" playOrder="58">
+      <navLabel>
+        <text>8 Office Software, Databases, and Social Software</text>
+      </navLabel>
+      <content src="text.html#p224"/>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>Do You Know Word?</text>
+        </navLabel>
+        <content src="text.html#p225"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>Bibliographic Instruction—Teaching Our Tools</text>
+        </navLabel>
+        <content src="text.html#p229"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>Social Software and Syndicated Sites</text>
+        </navLabel>
+        <content src="text.html#p233"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_62" playOrder="62">
+      <navLabel>
+        <text>9 When Things Go Wrong, or Right</text>
+      </navLabel>
+      <content src="text.html#p242"/>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>Troubleshooting and Supporting Your Systems</text>
+        </navLabel>
+        <content src="text.html#p243"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>Feedback and Assessment</text>
+        </navLabel>
+        <content src="text.html#p251"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_65" playOrder="65">
+      <navLabel>
+        <text>10 Things That Work—Examples from the Field</text>
+      </navLabel>
+      <content src="text.html#p258"/>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>Informal Consortia in the Green Mountains and Elsewhere</text>
+        </navLabel>
+        <content src="text.html#p259"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>MyKLOW—Consortial Blogging</text>
+        </navLabel>
+        <content src="text.html#p260"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>Technology Petting Zoo—Up Close and Personal</text>
+        </navLabel>
+        <content src="text.html#p262"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>23 Things</text>
+        </navLabel>
+        <content src="text.html#p263"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>Five Weeks to a Social Library—Collaborative Learning</text>
+        </navLabel>
+        <content src="text.html#p265"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_71" playOrder="71">
+      <navLabel>
+        <text>11 Why This Matters and What to Do</text>
+      </navLabel>
+      <content src="text.html#p268"/>
+    </navPoint>
+    <navPoint id="num_72" playOrder="72">
+      <navLabel>
+        <text>Appendix and Bibliography</text>
+      </navLabel>
+      <content src="text.html#p272"/>
+    </navPoint>
+    <navPoint id="num_73" playOrder="73">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="text.html#p288"/>
+    </navPoint>
+    <navPoint id="num_74" playOrder="74">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="text.html#p292"/>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>A</text>
+        </navLabel>
+        <content src="text.html#p292"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>B</text>
+        </navLabel>
+        <content src="text.html#p292"/>
+      </navPoint>
+      <navPoint id="num_77" playOrder="77">
+        <navLabel>
+          <text>C</text>
+        </navLabel>
+        <content src="text.html#p293"/>
+      </navPoint>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>D</text>
+        </navLabel>
+        <content src="text.html#p293"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>E</text>
+        </navLabel>
+        <content src="text.html#p293"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>F</text>
+        </navLabel>
+        <content src="text.html#p294"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>G</text>
+        </navLabel>
+        <content src="text.html#p294"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>H</text>
+        </navLabel>
+        <content src="text.html#p294"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="text.html#p295"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>J</text>
+        </navLabel>
+        <content src="text.html#p295"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>K</text>
+        </navLabel>
+        <content src="text.html#p295"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>L</text>
+        </navLabel>
+        <content src="text.html#p295"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>M</text>
+        </navLabel>
+        <content src="text.html#p296"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>N</text>
+        </navLabel>
+        <content src="text.html#p296"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>O</text>
+        </navLabel>
+        <content src="text.html#p297"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>P</text>
+        </navLabel>
+        <content src="text.html#p297"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>Q</text>
+        </navLabel>
+        <content src="text.html#p297"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>R</text>
+        </navLabel>
+        <content src="text.html#p297"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>S</text>
+        </navLabel>
+        <content src="text.html#p297"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>T</text>
+        </navLabel>
+        <content src="text.html#p298"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>U</text>
+        </navLabel>
+        <content src="text.html#p298"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="text.html#p299"/>
+      </navPoint>
+      <navPoint id="num_97" playOrder="97">
+        <navLabel>
+          <text>W</text>
+        </navLabel>
+        <content src="text.html#p299"/>
+      </navPoint>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>Y</text>
+        </navLabel>
+        <content src="text.html#p299"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

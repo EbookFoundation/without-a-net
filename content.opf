@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Without a Net</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jessamyn, West,">West, Jessamyn</dc:creator>
+    <dc:publisher>Libraries Unlimited</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">15eb4a13-ae92-4a8d-a7eb-c289e178f5cc</dc:identifier>
+    <dc:contributor opf:role="bkp">unglue.it [https://unglue.it]</dc:contributor>
+    <dc:date>2012-01-19T14:27:56+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier>https://unglue.it/work/113915/ </dc:identifier>
+    <meta name="calibre:timestamp" content="2018-02-12T20:30:27+00:00"/>
+    <meta name="calibre:title_sort" content="Without a Net"/>
+    <meta name="calibre:author_link_map" content="{&quot;West, Jessamyn&quot;: &quot;&quot;}"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="text.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index-1_1.png" id="id21" media-type="image/png"/>
+    <item href="index-112_1.jpg" id="id2" media-type="image/jpeg"/>
+    <item href="index-129_1.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="index-144_1.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="index-145_1.png" id="id5" media-type="image/png"/>
+    <item href="index-152_1.png" id="id6" media-type="image/png"/>
+    <item href="index-153_1.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="index-154_1.png" id="id8" media-type="image/png"/>
+    <item href="index-160_1.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="index-162_1.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="index-162_2.jpg" id="id11" media-type="image/jpeg"/>
+    <item href="index-166_1.png" id="id12" media-type="image/png"/>
+    <item href="index-167_1.jpg" id="id13" media-type="image/jpeg"/>
+    <item href="index-167_2.jpg" id="id14" media-type="image/jpeg"/>
+    <item href="index-167_3.jpg" id="id15" media-type="image/jpeg"/>
+    <item href="index-169_1.jpg" id="id16" media-type="image/jpeg"/>
+    <item href="index-170_1.jpg" id="id17" media-type="image/jpeg"/>
+    <item href="index-190_1.jpg" id="id18" media-type="image/jpeg"/>
+    <item href="index-195_1.jpg" id="id19" media-type="image/jpeg"/>
+    <item href="index-199_1.jpg" id="id20" media-type="image/jpeg"/>
+    <item href="index-201_1.jpg" id="id22" media-type="image/jpeg"/>
+    <item href="index-234_1.jpg" id="id23" media-type="image/jpeg"/>
+    <item href="index-239_1.jpg" id="id24" media-type="image/jpeg"/>
+    <item href="index-300_1.jpg" id="id25" media-type="image/jpeg"/>
+    <item href="index-32_1.jpg" id="id26" media-type="image/jpeg"/>
+    <item href="index-34_1.jpg" id="id27" media-type="image/jpeg"/>
+    <item href="index-52_1.jpg" id="id29" media-type="image/jpeg"/>
+    <item href="index-54_1.jpg" id="id30" media-type="image/jpeg"/>
+    <item href="index-72_1.jpg" id="id32" media-type="image/jpeg"/>
+    <item href="unglueitlogo.png" id="id" media-type="image/png"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
